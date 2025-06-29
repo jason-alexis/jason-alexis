@@ -24,13 +24,21 @@ Concepts of Data Analysis ✨
 I'm continuously working on projects to apply and expand my data skills. Here's a look at what I'm currently focused on:
 
 Crunchyroll Actors/Directors Analysis 🎬📈
-Project Goal: To identify which voice actors and directors are most strongly associated with high-rated, popular anime titles, helping Crunchyroll prioritize proven talent for content acquisition.
-
-Background: Anime's global fanbase is surging, creating immense pressure on Crunchyroll's licensing team to efficiently acquire top-performing titles. Currently, there's limited analysis on how voice actors and directors impact a title's success (measured by IMDb ratings and vote counts). This project aims to fill that gap by surfacing top contributors, enabling data-informed licensing strategies that can improve content ROI by an estimated 5–15%.
-
-Technologies: [Expected technologies like Python (Pandas, Matplotlib/Seaborn), SQL, potentially Tableau for visualization if applicable]
+Goal: Identify voice actors and directors linked to high-rated, popular anime to aid content acquisition and improve ROI.
 
 Status: Work in Progress 🚧 (Link to repository coming soon!)
+
+Exploring Data Science Concepts 🧠
+Actively working on Exploratory Data Analysis (EDA) and Machine Learning fundamentals.
+
+📫 Let's Connect!
+I'm always open to connecting with fellow professionals and data enthusiasts. Feel free to reach out!
+
+LinkedIn: [Your LinkedIn Profile URL Here]
+
+Email: [Your Email Address Here]
+
+Thank you for visiting my profile! This profile is actively being developed as I expand my skills and projects. Stay tuned for more!
 
 📫 Let's Connect!
 I'm always open to connecting with fellow professionals and data enthusiasts. Feel free to reach out!
