@@ -33,7 +33,7 @@ Here are some of the tools and concepts I work with:
 
 ### 📫 Connect With Me!  
 - **LinkedIn:** [Your LinkedIn Profile URL Here]
-- ** Portfolio datascienceportfol.io/jasonalexis 
+- **Portfolio:** https://datascienceportfol.io/jasonalexis
 - **Email:** Jasonalexis@hotmail.com
 
 ---
