@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **Jason Alexis**, a detail-oriented Revenue Accountant with 3 years of experience in revenue accounting and a total of 10 years in the finance and audit industry. I have a growing passion for leveraging data to drive insights and improve decision-making. I'm actively expanding my expertise in **data analysis**, **SQL**, **Python**, and **Machine Learning**.
+I'm **Jason Alexis**, Revenue Accountant with 3+ years of experience in revenue accounting and 10 years in finance and audit. I have a growing passion for leveraging data to drive insights and improve decision-making. I'm building a portfolio of real-world analytic projects using **data analysis**, **SQL**, **Python**, and **Excel**.
 
 ---
 
