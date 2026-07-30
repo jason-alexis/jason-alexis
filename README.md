@@ -25,7 +25,7 @@ Based in **Brooklyn, NY** 🗽
 ---
 
 ### 📫 Connect With Me!
-- **LinkedIn:** [www.linkedin.com/in/jason-alexis-nyc]
+- **LinkedIn:** www.linkedin.com/in/jason-alexis-nyc
 - **Portfolio:** [datascienceportfol.io/jasonalexis](https://datascienceportfol.io/jasonalexis)
 - **Email:** Jasonalexis@hotmail.com
 
