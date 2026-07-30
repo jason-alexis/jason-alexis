@@ -20,7 +20,8 @@ Based in **Brooklyn, NY** 🗽
 ---
 
 ### 🌱 What I'm Building
-- 🎬 **Crunchyroll Talent Performance Analysis** — SQL & Tableau | [View Project](https://datascienceportfol.io/jasonalexis)
+- 🎬 **Crunchyroll Talent Performance Analysis** — SQL & Tableau | [View Project](https://www.datascienceportfol.io/jasonalexis/projects/0)
+- 🎬 **Goodreads Analysis** — SQL & Tableau | [View Project](https://www.datascienceportfol.io/jasonalexis/projects/1)
 
 ---
 
